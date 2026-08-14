@@ -1,0 +1,7 @@
+.env
+result.csv
+seen.json
+sample_100.csv
+__pycache__/
+*.csv
+*.xlsx
